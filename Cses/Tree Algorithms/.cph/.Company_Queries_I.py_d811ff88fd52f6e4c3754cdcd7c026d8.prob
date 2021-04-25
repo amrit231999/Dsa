@@ -1,0 +1,1 @@
+{"name":"Local: Company_Queries_I","url":"/home/amrit231999/Desktop/Dsa/Cses/Tree Algorithms/Company_Queries_I.py","tests":[{"id":1619218131504,"input":"5 3\n1 1 3 3\n4 1\n4 2\n4 3","output":"3\n1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amrit231999/Desktop/Dsa/Cses/Tree Algorithms/Company_Queries_I.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/amrit231999/Desktop/Competitive/a.py","tests":[{"id":1615622692453,"input":"3\n4 6 13\n2 3 1\n1 1 1","output":"4 6 5\n2 2 3\n1 1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amrit231999/Desktop/Competitive/a.py","group":"local","local":true}
